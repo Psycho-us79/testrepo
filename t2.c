@@ -1,0 +1,5 @@
+MAIN()
+{
+ADD();
+SUB();
+MULT();
